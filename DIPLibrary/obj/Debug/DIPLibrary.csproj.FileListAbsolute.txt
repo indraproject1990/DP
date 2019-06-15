@@ -1,0 +1,12 @@
+F:\temp\my own work\designingpatterns\DIPLibrary\bin\Debug\DIPLibrary.dll
+F:\temp\my own work\designingpatterns\DIPLibrary\bin\Debug\DIPLibrary.pdb
+F:\temp\my own work\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.dll
+F:\temp\my own work\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.pdb
+F:\temp\my own work\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.csprojAssemblyReference.cache
+F:\temp\my own work\test\designingpatterns\DIPLibrary\bin\Debug\DIPLibrary.dll
+F:\temp\my own work\test\designingpatterns\DIPLibrary\bin\Debug\DIPLibrary.pdb
+F:\temp\my own work\test\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.csprojAssemblyReference.cache
+F:\temp\my own work\test\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.dll
+F:\temp\my own work\test\designingpatterns\DIPLibrary\obj\Debug\DIPLibrary.pdb

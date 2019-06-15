@@ -1,0 +1,13 @@
+F:\temp\my own work\designingpatterns\ConsoleSRP\bin\Debug\ConsoleSRP.exe.config
+F:\temp\my own work\designingpatterns\ConsoleSRP\bin\Debug\ConsoleSRP.exe
+F:\temp\my own work\designingpatterns\ConsoleSRP\bin\Debug\ConsoleSRP.pdb
+F:\temp\my own work\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.csproj.CoreCompileInputs.cache
+F:\temp\my own work\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.exe
+F:\temp\my own work\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.pdb
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\bin\Debug\ConsoleSRP.exe.config
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\bin\Debug\ConsoleSRP.exe
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\bin\Debug\ConsoleSRP.pdb
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.exe
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.pdb
+F:\temp\my own work\test\designingpatterns\ConsoleSRP\obj\Debug\ConsoleSRP.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\temp\my own work\designingpatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+F:\temp\my own work\designingpatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+F:\temp\my own work\designingpatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+F:\temp\my own work\designingpatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+F:\temp\my own work\designingpatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+F:\temp\my own work\designingpatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb
+F:\temp\my own work\test\designingpatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+F:\temp\my own work\test\designingpatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+F:\temp\my own work\test\designingpatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+F:\temp\my own work\test\designingpatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+F:\temp\my own work\test\designingpatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb

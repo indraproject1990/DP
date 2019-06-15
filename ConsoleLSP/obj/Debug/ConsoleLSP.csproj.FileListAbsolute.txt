@@ -1,0 +1,10 @@
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\obj\Debug\ConsoleLSP.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\bin\Debug\ConsoleLSP.exe.config
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\bin\Debug\ConsoleLSP.exe
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\bin\Debug\ConsoleLSP.pdb
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\bin\Debug\LSPLibrary.dll
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\bin\Debug\LSPLibrary.pdb
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\obj\Debug\ConsoleLSP.csprojAssemblyReference.cache
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\obj\Debug\ConsoleLSP.csproj.CopyComplete
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\obj\Debug\ConsoleLSP.exe
+F:\temp\my own work\test\designingpatterns\ConsoleLSP\obj\Debug\ConsoleLSP.pdb

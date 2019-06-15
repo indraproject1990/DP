@@ -1,0 +1,12 @@
+F:\temp\my own work\designingpatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+F:\temp\my own work\designingpatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+F:\temp\my own work\designingpatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+F:\temp\my own work\designingpatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\temp\my own work\designingpatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+F:\temp\my own work\designingpatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+F:\temp\my own work\test\designingpatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+F:\temp\my own work\test\designingpatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+F:\temp\my own work\test\designingpatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+F:\temp\my own work\test\designingpatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+F:\temp\my own work\test\designingpatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

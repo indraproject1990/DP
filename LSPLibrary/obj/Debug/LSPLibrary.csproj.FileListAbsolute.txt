@@ -1,0 +1,5 @@
+F:\temp\my own work\test\designingpatterns\LSPLibrary\bin\Debug\LSPLibrary.dll
+F:\temp\my own work\test\designingpatterns\LSPLibrary\bin\Debug\LSPLibrary.pdb
+F:\temp\my own work\test\designingpatterns\LSPLibrary\obj\Debug\LSPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\LSPLibrary\obj\Debug\LSPLibrary.dll
+F:\temp\my own work\test\designingpatterns\LSPLibrary\obj\Debug\LSPLibrary.pdb

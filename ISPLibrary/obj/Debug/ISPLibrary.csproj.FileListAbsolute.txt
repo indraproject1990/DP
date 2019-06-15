@@ -1,0 +1,11 @@
+F:\temp\my own work\designingpatterns\ISPLibrary\bin\Debug\ISPLibrary.dll
+F:\temp\my own work\designingpatterns\ISPLibrary\bin\Debug\ISPLibrary.pdb
+F:\temp\my own work\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.dll
+F:\temp\my own work\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.pdb
+F:\temp\my own work\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.csprojAssemblyReference.cache
+F:\temp\my own work\test\designingpatterns\ISPLibrary\bin\Debug\ISPLibrary.dll
+F:\temp\my own work\test\designingpatterns\ISPLibrary\bin\Debug\ISPLibrary.pdb
+F:\temp\my own work\test\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.dll
+F:\temp\my own work\test\designingpatterns\ISPLibrary\obj\Debug\ISPLibrary.pdb

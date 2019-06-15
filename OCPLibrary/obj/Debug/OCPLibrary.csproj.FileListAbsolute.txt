@@ -1,0 +1,11 @@
+F:\temp\my own work\designingpatterns\OCPLibrary\bin\Debug\OCPLibrary.dll
+F:\temp\my own work\designingpatterns\OCPLibrary\bin\Debug\OCPLibrary.pdb
+F:\temp\my own work\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.dll
+F:\temp\my own work\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.pdb
+F:\temp\my own work\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.csprojAssemblyReference.cache
+F:\temp\my own work\test\designingpatterns\OCPLibrary\bin\Debug\OCPLibrary.dll
+F:\temp\my own work\test\designingpatterns\OCPLibrary\bin\Debug\OCPLibrary.pdb
+F:\temp\my own work\test\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+F:\temp\my own work\test\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.dll
+F:\temp\my own work\test\designingpatterns\OCPLibrary\obj\Debug\OCPLibrary.pdb
